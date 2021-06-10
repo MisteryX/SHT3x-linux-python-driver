@@ -8,7 +8,6 @@ Original driver based on [micropython-sht30](https://github.com/rsc1975/micropyt
 
 * [Sensor Datasheet](https://static.chipdip.ru/lib/994/DOC003994445.pdf)
 * [Arduino driver](https://github.com/wemos/WEMOS_SHT3x_Arduino_Library)
-* [SHT30 C Code Examples](https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/11_Sample_Codes_Software/Humidity_Sensors/Sensirion_Humidity_Sensors_SHT3x_Sample_Code_V2.pdf) from sensor manufacturer
 
 ## Examples of use:
 Basic usage:
